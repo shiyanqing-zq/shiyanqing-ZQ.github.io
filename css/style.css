@@ -159,7 +159,8 @@ p.abt-para {
     color: #464646;
     line-height: 2.2em;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
+    color:#10A7AF;
     width: 75%;
     margin: 0 auto 50px;
 }
@@ -331,13 +332,15 @@ a.accordion-section-title span {
     padding-left: 4.8em;
     color: #464646;
     line-height: 2.2em;
-    font-size: 14px;
+    font-size: 18px;
+    color:#10A7AF;
 }
 .employ-left2 p {
     padding-right: 4.8em;
     color: #464646;
     line-height: 2.2em;
-    font-size: 14px;
+    font-size: 18px;
+    color:#10A7AF;
 	text-align:right;
 }
 .employ-left h4 {
@@ -982,7 +985,8 @@ background:#fff;
 		top: 36%;
 	}
 	.employ-right p ,.employ-left2 p,p.abt-para,.pro-text p,ul.list-left li,.header-right ul li{
-		font-size: 13px;
+		font-size: 17px;
+		color:#10A7AF;
 	}	
 	.abt-gd-left h4 {
 		font-size: 19px;
